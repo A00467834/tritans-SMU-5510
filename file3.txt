@@ -5,6 +5,13 @@ return Math.max(a,b);
 }
 
 #A00467834
+
 public int avg (int a, int b) {
 return Math.avg(a,b);
+}
+
+#A00465519 (Vishnu Tej Nanda Kumar)
+
+public int powOf(int a, int b) {
+	return Math.pow(a,b);
 }
