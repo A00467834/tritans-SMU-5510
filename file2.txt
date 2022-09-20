@@ -3,3 +3,9 @@
 Public int division (int a, int b) {
 return a/b;
 }
+
+#A00465519 (Vishnu Tej Nanda Kumar)
+
+public float minValue(float a, float b) {
+	return Math.min(a,b);
+}

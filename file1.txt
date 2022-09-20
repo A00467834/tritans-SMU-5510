@@ -3,3 +3,9 @@
 Public int addition (int a, int b) {
 return a+b;
 }
+
+#A00465519 (Vishnu Tej Nanda Kumar)
+
+Public double multiply(float a, float b) {
+	return a*b;
+}
