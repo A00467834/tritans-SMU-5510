@@ -3,3 +3,9 @@
 Public int addition (int a, int b) {
 return a+b;
 }
+
+#A00467834
+
+Public int subtraction (int a, int b) {
+return a-b;
+}
